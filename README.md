@@ -10,7 +10,7 @@ payload = {
 }
 
 headers = {
-    "X-API-Key": "839084ba78msh70d21f2a9311d81p1b0e1djsnf26425f9ea3d",
+    "X-API-Key": "YOUR_RAPIDAPI_KEY",
     "X-RapidAPI-Host": "chat-completion.p.rapidapi.com",
     "Content-Type": "application/json"
 }
